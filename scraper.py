@@ -11,5 +11,5 @@ class Scraper(object):
         start_index = text.find(content_to_search)
         likes_word_index = text.find("Likes", start_index)
         if likes_word_index == -1:
-            return -1;
+            return -1
         return text[(start_index + len(content_to_search)):likes_word_index]

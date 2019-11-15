@@ -7,7 +7,7 @@ cachetools==3.1.1
 certifi==2019.9.11
 chardet==3.0.4
 Click==7.0
-cloud-init==18.2
+//cloud-init==18.2
 colorama==0.3.7
 command-not-found==0.3
 configobj==5.0.6
@@ -15,7 +15,7 @@ constantly==15.1.0
 cryptography==2.3
 distro-info==0.18
 Flask==1.1.1
-google-api-core==1.13.0
+google-api-core==1.13.0F
 google-auth==1.6.3
 google-cloud-language==1.2.0
 googleapis-common-protos==1.6.0

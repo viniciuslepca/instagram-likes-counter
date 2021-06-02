@@ -60,7 +60,7 @@ strsim==0.0.3
 textblob==0.15.3
 Twisted==17.9.0
 typed-ast==1.4.0
-urllib3==1.25.7
+urllib3==1.26.5
 Werkzeug==0.16.0
 wrapt==1.11.2
 zope.interface==4.3.2
